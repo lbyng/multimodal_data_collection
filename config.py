@@ -1,0 +1,10 @@
+NETWORK_INTERFACE = 'eno1'
+SYNC_RATE = 60
+
+CAMERA_DISPLAY = False
+AUTO_CONVERT_HDF5 = True
+
+D1_CMD_ADDRESS = "tcp://localhost:5555"
+D1_ACT_ADDRESS = "tcp://localhost:5556"
+
+CAMERA_ADDRESS = "tcp://192.168.123.18:5557"
